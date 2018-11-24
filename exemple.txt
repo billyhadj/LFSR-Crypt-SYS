@@ -1,0 +1,258 @@
+Longueur des registres (MAXLEN) : 64, en octet (sizeof) : 8 
+position 0 : 56,  longueur : 8
+  0) registre :       80, poly :       71, bit : 0
+  1) registre :       40, poly :       71, bit : 0
+  2) registre :       a0, poly :       71, bit : 0
+  3) registre :       d0, poly :       71, bit : 0
+  4) registre :       68, poly :       71, bit : 0
+  5) registre :       34, poly :       71, bit : 0
+  6) registre :       1a, poly :       71, bit : 0
+  7) registre :       8d, poly :       71, bit : 1
+  8) registre :       c6, poly :       71, bit : 0
+  9) registre :       e3, poly :       71, bit : 1
+ 10) registre :       f1, poly :       71, bit : 1
+ 11) registre :       78, poly :       71, bit : 0
+ 12) registre :       bc, poly :       71, bit : 0
+ 13) registre :       5e, poly :       71, bit : 0
+ 14) registre :       2f, poly :       71, bit : 1
+ 15) registre :       17, poly :       71, bit : 1
+ 16) registre :        b, poly :       71, bit : 1
+ 17) registre :       85, poly :       71, bit : 1
+ 18) registre :       c2, poly :       71, bit : 0
+ 19) registre :       e1, poly :       71, bit : 1
+ 20) registre :       f0, poly :       71, bit : 0
+ 21) registre :       f8, poly :       71, bit : 0
+ 22) registre :       fc, poly :       71, bit : 0
+ 23) registre :       fe, poly :       71, bit : 0
+ 24) registre :       ff, poly :       71, bit : 1
+ 25) registre :       7f, poly :       71, bit : 1
+ 26) registre :       3f, poly :       71, bit : 1
+ 27) registre :       9f, poly :       71, bit : 1
+ 28) registre :       4f, poly :       71, bit : 1
+ 29) registre :       27, poly :       71, bit : 1
+ 30) registre :       13, poly :       71, bit : 1
+ 31) registre :        9, poly :       71, bit : 1
+ 32) registre :       84, poly :       71, bit : 0
+ 33) registre :       42, poly :       71, bit : 0
+ 34) registre :       a1, poly :       71, bit : 1
+ 35) registre :       50, poly :       71, bit : 0
+ 36) registre :       28, poly :       71, bit : 0
+ 37) registre :       94, poly :       71, bit : 0
+ 38) registre :       ca, poly :       71, bit : 0
+ 39) registre :       e5, poly :       71, bit : 1
+ 40) registre :       f2, poly :       71, bit : 0
+ 41) registre :       f9, poly :       71, bit : 1
+ 42) registre :       7c, poly :       71, bit : 0
+ 43) registre :       be, poly :       71, bit : 0
+ 44) registre :       5f, poly :       71, bit : 1
+ 45) registre :       af, poly :       71, bit : 1
+ 46) registre :       57, poly :       71, bit : 1
+ 47) registre :       ab, poly :       71, bit : 1
+ 48) registre :       55, poly :       71, bit : 1
+ 49) registre :       aa, poly :       71, bit : 0
+ 50) registre :       d5, poly :       71, bit : 1
+ 51) registre :       ea, poly :       71, bit : 0
+ 52) registre :       75, poly :       71, bit : 1
+ 53) registre :       3a, poly :       71, bit : 0
+ 54) registre :       1d, poly :       71, bit : 1
+ 55) registre :        e, poly :       71, bit : 0
+ 56) registre :        7, poly :       71, bit : 1
+ 57) registre :       83, poly :       71, bit : 1
+ 58) registre :       c1, poly :       71, bit : 1
+ 59) registre :       60, poly :       71, bit : 0
+ 60) registre :       30, poly :       71, bit : 0
+ 61) registre :       18, poly :       71, bit : 0
+ 62) registre :       8c, poly :       71, bit : 0
+ 63) registre :       46, poly :       71, bit : 0
+ 64) registre :       a3, poly :       71, bit : 1
+ 65) registre :       51, poly :       71, bit : 1
+ 66) registre :       a8, poly :       71, bit : 0
+ 67) registre :       d4, poly :       71, bit : 0
+ 68) registre :       6a, poly :       71, bit : 0
+ 69) registre :       35, poly :       71, bit : 1
+ 70) registre :       9a, poly :       71, bit : 0
+ 71) registre :       cd, poly :       71, bit : 1
+ 72) registre :       66, poly :       71, bit : 0
+ 73) registre :       33, poly :       71, bit : 1
+ 74) registre :       99, poly :       71, bit : 1
+ 75) registre :       4c, poly :       71, bit : 0
+ 76) registre :       a6, poly :       71, bit : 0
+ 77) registre :       d3, poly :       71, bit : 1
+ 78) registre :       e9, poly :       71, bit : 1
+ 79) registre :       f4, poly :       71, bit : 0
+ 80) registre :       fa, poly :       71, bit : 0
+ 81) registre :       fd, poly :       71, bit : 1
+ 82) registre :       7e, poly :       71, bit : 0
+ 83) registre :       bf, poly :       71, bit : 1
+ 84) registre :       df, poly :       71, bit : 1
+ 85) registre :       ef, poly :       71, bit : 1
+ 86) registre :       f7, poly :       71, bit : 1
+ 87) registre :       7b, poly :       71, bit : 1
+ 88) registre :       3d, poly :       71, bit : 1
+ 89) registre :       9e, poly :       71, bit : 0
+ 90) registre :       cf, poly :       71, bit : 1
+ 91) registre :       67, poly :       71, bit : 1
+ 92) registre :       b3, poly :       71, bit : 1
+ 93) registre :       d9, poly :       71, bit : 1
+ 94) registre :       ec, poly :       71, bit : 0
+ 95) registre :       76, poly :       71, bit : 0
+ 96) registre :       bb, poly :       71, bit : 1
+ 97) registre :       dd, poly :       71, bit : 1
+ 98) registre :       ee, poly :       71, bit : 0
+ 99) registre :       77, poly :       71, bit : 1
+100) registre :       3b, poly :       71, bit : 1
+101) registre :       9d, poly :       71, bit : 1
+102) registre :       4e, poly :       71, bit : 0
+103) registre :       a7, poly :       71, bit : 1
+104) registre :       53, poly :       71, bit : 1
+105) registre :       a9, poly :       71, bit : 1
+106) registre :       54, poly :       71, bit : 0
+107) registre :       2a, poly :       71, bit : 0
+108) registre :       95, poly :       71, bit : 1
+109) registre :       4a, poly :       71, bit : 0
+110) registre :       a5, poly :       71, bit : 1
+111) registre :       52, poly :       71, bit : 0
+112) registre :       29, poly :       71, bit : 1
+113) registre :       14, poly :       71, bit : 0
+114) registre :       8a, poly :       71, bit : 0
+115) registre :       45, poly :       71, bit : 1
+116) registre :       22, poly :       71, bit : 0
+117) registre :       91, poly :       71, bit : 1
+118) registre :       48, poly :       71, bit : 0
+119) registre :       a4, poly :       71, bit : 0
+120) registre :       d2, poly :       71, bit : 0
+121) registre :       69, poly :       71, bit : 1
+122) registre :       b4, poly :       71, bit : 0
+123) registre :       5a, poly :       71, bit : 0
+124) registre :       2d, poly :       71, bit : 1
+125) registre :       16, poly :       71, bit : 0
+126) registre :       8b, poly :       71, bit : 1
+127) registre :       c5, poly :       71, bit : 1
+128) registre :       62, poly :       71, bit : 0
+129) registre :       31, poly :       71, bit : 1
+130) registre :       98, poly :       71, bit : 0
+131) registre :       cc, poly :       71, bit : 0
+132) registre :       e6, poly :       71, bit : 0
+133) registre :       73, poly :       71, bit : 1
+134) registre :       39, poly :       71, bit : 1
+135) registre :       9c, poly :       71, bit : 0
+136) registre :       ce, poly :       71, bit : 0
+137) registre :       e7, poly :       71, bit : 1
+138) registre :       f3, poly :       71, bit : 1
+139) registre :       79, poly :       71, bit : 1
+140) registre :       3c, poly :       71, bit : 0
+141) registre :       1e, poly :       71, bit : 0
+142) registre :       8f, poly :       71, bit : 1
+143) registre :       c7, poly :       71, bit : 1
+144) registre :       63, poly :       71, bit : 1
+145) registre :       b1, poly :       71, bit : 1
+146) registre :       d8, poly :       71, bit : 0
+147) registre :       6c, poly :       71, bit : 0
+148) registre :       36, poly :       71, bit : 0
+149) registre :       1b, poly :       71, bit : 1
+150) registre :        d, poly :       71, bit : 1
+151) registre :       86, poly :       71, bit : 0
+152) registre :       43, poly :       71, bit : 1
+153) registre :       21, poly :       71, bit : 1
+154) registre :       10, poly :       71, bit : 0
+155) registre :       88, poly :       71, bit : 0
+156) registre :       44, poly :       71, bit : 0
+157) registre :       a2, poly :       71, bit : 0
+158) registre :       d1, poly :       71, bit : 1
+159) registre :       e8, poly :       71, bit : 0
+160) registre :       74, poly :       71, bit : 0
+161) registre :       ba, poly :       71, bit : 0
+162) registre :       5d, poly :       71, bit : 1
+163) registre :       ae, poly :       71, bit : 0
+164) registre :       d7, poly :       71, bit : 1
+165) registre :       eb, poly :       71, bit : 1
+166) registre :       f5, poly :       71, bit : 1
+167) registre :       7a, poly :       71, bit : 0
+168) registre :       bd, poly :       71, bit : 1
+169) registre :       de, poly :       71, bit : 0
+170) registre :       6f, poly :       71, bit : 1
+171) registre :       b7, poly :       71, bit : 1
+172) registre :       db, poly :       71, bit : 1
+173) registre :       ed, poly :       71, bit : 1
+174) registre :       f6, poly :       71, bit : 0
+175) registre :       fb, poly :       71, bit : 1
+176) registre :       7d, poly :       71, bit : 1
+177) registre :       3e, poly :       71, bit : 0
+178) registre :       1f, poly :       71, bit : 1
+179) registre :        f, poly :       71, bit : 1
+180) registre :       87, poly :       71, bit : 1
+181) registre :       c3, poly :       71, bit : 1
+182) registre :       61, poly :       71, bit : 1
+183) registre :       b0, poly :       71, bit : 0
+184) registre :       58, poly :       71, bit : 0
+185) registre :       2c, poly :       71, bit : 0
+186) registre :       96, poly :       71, bit : 0
+187) registre :       cb, poly :       71, bit : 1
+188) registre :       65, poly :       71, bit : 1
+189) registre :       b2, poly :       71, bit : 0
+190) registre :       59, poly :       71, bit : 1
+191) registre :       ac, poly :       71, bit : 0
+192) registre :       d6, poly :       71, bit : 0
+193) registre :       6b, poly :       71, bit : 1
+194) registre :       b5, poly :       71, bit : 1
+195) registre :       da, poly :       71, bit : 0
+196) registre :       6d, poly :       71, bit : 1
+197) registre :       b6, poly :       71, bit : 0
+198) registre :       5b, poly :       71, bit : 1
+199) registre :       ad, poly :       71, bit : 1
+200) registre :       56, poly :       71, bit : 0
+201) registre :       2b, poly :       71, bit : 1
+202) registre :       15, poly :       71, bit : 1
+203) registre :        a, poly :       71, bit : 0
+204) registre :        5, poly :       71, bit : 1
+205) registre :       82, poly :       71, bit : 0
+206) registre :       41, poly :       71, bit : 1
+207) registre :       20, poly :       71, bit : 0
+208) registre :       90, poly :       71, bit : 0
+209) registre :       c8, poly :       71, bit : 0
+210) registre :       e4, poly :       71, bit : 0
+211) registre :       72, poly :       71, bit : 0
+212) registre :       b9, poly :       71, bit : 1
+213) registre :       dc, poly :       71, bit : 0
+214) registre :       6e, poly :       71, bit : 0
+215) registre :       37, poly :       71, bit : 1
+216) registre :       9b, poly :       71, bit : 1
+217) registre :       4d, poly :       71, bit : 1
+218) registre :       26, poly :       71, bit : 0
+219) registre :       93, poly :       71, bit : 1
+220) registre :       49, poly :       71, bit : 1
+221) registre :       24, poly :       71, bit : 0
+222) registre :       92, poly :       71, bit : 0
+223) registre :       c9, poly :       71, bit : 1
+224) registre :       64, poly :       71, bit : 0
+225) registre :       32, poly :       71, bit : 0
+226) registre :       19, poly :       71, bit : 1
+227) registre :        c, poly :       71, bit : 0
+228) registre :        6, poly :       71, bit : 0
+229) registre :        3, poly :       71, bit : 1
+230) registre :       81, poly :       71, bit : 1
+231) registre :       c0, poly :       71, bit : 0
+232) registre :       e0, poly :       71, bit : 0
+233) registre :       70, poly :       71, bit : 0
+234) registre :       b8, poly :       71, bit : 0
+235) registre :       5c, poly :       71, bit : 0
+236) registre :       2e, poly :       71, bit : 0
+237) registre :       97, poly :       71, bit : 1
+238) registre :       4b, poly :       71, bit : 1
+239) registre :       25, poly :       71, bit : 1
+240) registre :       12, poly :       71, bit : 0
+241) registre :       89, poly :       71, bit : 1
+242) registre :       c4, poly :       71, bit : 0
+243) registre :       e2, poly :       71, bit : 0
+244) registre :       71, poly :       71, bit : 1
+245) registre :       38, poly :       71, bit : 0
+246) registre :       1c, poly :       71, bit : 0
+247) registre :       8e, poly :       71, bit : 0
+248) registre :       47, poly :       71, bit : 1
+249) registre :       23, poly :       71, bit : 1
+250) registre :       11, poly :       71, bit : 1
+251) registre :        8, poly :       71, bit : 0
+252) registre :        4, poly :       71, bit : 0
+253) registre :        2, poly :       71, bit : 0
+254) registre :        1, poly :       71, bit : 1
+255) registre :       80, poly :       71

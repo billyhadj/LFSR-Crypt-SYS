@@ -1,0 +1,25 @@
+Pour ce tp sont attendus :
+
+1/ les fichiers lfsr.h et lfsr.c  ;
+
+2/ un programme ou des programmes avec quelques tests simples,
+   l'initialisation et l'incrémentation d'un lfsr ne modifient que les
+   bits de l'entier qui sont attribués au lfsr, reproduction de
+   exemple.txt, etc.
+
+3/ un programme de test lfsr_period (lfsr_period.c) qui calcule directement la
+   longueur de la plus petite période de la suite engendrée par le lfsr
+   quand elle existe (peut ne pas terminer si la suite engendrée n'est
+   périodique xqu'à partir d'un certain rang ; l'argument (ou les
+   arguments) de lfsr_period sont à entrer en hexadécimal ; le
+   compte-rendu doit relater l'utilisation de ce programme pour tester
+   la cohérence avec les résultats théoriques (au moins : si le polynôme
+   est primitif, utiliser les programmes du tp1, la longueur de la
+   période est 2^m - 1, si le polynôme est irréductible non primitif
+   la longueur est < à 2^m - 1, c'est l'ordre d'une racine du polynôme
+   (vérifiable avec les programmes du tp1).
+
+4/ la programmation de A5/1 tel que décrit à l'exercice 5 ; les lfsr sont
+   implémentés sur un seul entier de 64 bits en les classant, à partir
+   du poids faible, par longueur de taille croissante (19, 22 puis 23).
+
