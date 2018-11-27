@@ -59,7 +59,7 @@ premier bit est 0. Par exemple en 8 bits, MASK(2,3) : 00011100
 
 N'utiliser *que* des opérations bit à bit et décalages.
 */
-#define MASK(a,b) ( (~MAXINT << b)<<(a))
+#define MASK(a,b) ( (~(MAXINT << b))<<(a))
 
 #define LFSR_MASK(lfsr) MASK(lfsr->zero, lfsr->len)
 
@@ -78,5 +78,9 @@ int lfsr_init (lfsr_t *, const byte_t, const byte_t, container_t *);
 /* Incrémentation du LFSR, ne modifie *que* les bits affectés au LFSR */
 void lfsr_inc (lfsr_t *);
 
+/* fonction de calcul de la plus petit période d'un lfsr engendré par une suite */
+int lfsr_period(lfsr_t *);
 
+/*fonction auxilère qui permet de vérifier l'appartenance à un tableau */
+int is_here(maxlen_t , maxlen_t*, int);
 #endif /* LFSR_H */
